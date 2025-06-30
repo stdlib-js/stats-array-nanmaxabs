@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-10)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`803f30a`](https://github.com/stdlib-js/stdlib/commit/803f30a518a22fb4c01e5d2b82b37afd9f0d567d) - **test:** update import paths _(by Athan Reines)_
 -   [`f1f0640`](https://github.com/stdlib-js/stdlib/commit/f1f06404e9a92c29c4ef8461e27f5b63e6a547dc) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`f66ef4f`](https://github.com/stdlib-js/stdlib/commit/f66ef4f470b76550b1634371cbaa1a4ab6c54b3b) - **feat:** add `stats/array/nanmaxabs` [(#7172)](https://github.com/stdlib-js/stdlib/pull/7172) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 
